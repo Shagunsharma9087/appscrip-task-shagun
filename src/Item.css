@@ -1,0 +1,8 @@
+#itemcontainer{
+    width: 300px;
+    height:210px;
+    border-color: 10px black;
+    border-style:groove;
+    border-width: 5px;
+    margin:20px
+}
